@@ -1,4 +1,4 @@
-package com.back.jumptospring;
+package com.back.jumptospring.answer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
